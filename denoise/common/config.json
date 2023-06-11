@@ -1,0 +1,4 @@
+{
+  "use_gpu": true,
+  "gpu_list": [0,1]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "MyPointCleanNetOutliers",
+  "module_dir": "outliers_removal",
+  "base_data_dir": "data",
+  "train_data_dir": "pointCleanNetOutliersTrainingSet",
+  "result_dir": "train_result",
+  "eval_data_dir": "pointCleanNetOutliersTestSet",
+  "eval_dir": "28"
+}
